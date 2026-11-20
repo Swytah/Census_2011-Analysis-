@@ -47,7 +47,7 @@ Created `census_analysis.xlsx` with 3 sheets:
 - Bar Chart: Literacy Rate by State
 - Map: State-wise Literacy Distribution
 - Slicer: Literacy Band
-
+  
 ---
 
 ## Key Findings
